@@ -1,0 +1,2 @@
+http_request
+-To be honest I do not remember the exact process but I think I took the dns of this connection and pasted it in the URL and tried going around the information to try and get the flag and I got the flag.
